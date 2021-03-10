@@ -54,7 +54,7 @@ function calculate(tbl,ip){
 		for(var i=0;i<5;i++) for(var j=1;j<6;j++)
 			tbl.children[i].children[j].innerHTML="";
 		for(var i=0;i<5;i++){
-			tbl.children[i].children[6-l[i] ].innerHTML='<img src="assets/check.png">';
+			tbl.children[i].children[6-l[i] ].innerHTML='<img class="check" src="assets/check.png">';
 			w[i]*=l[i];
 		}
 		w.push(marks);
@@ -277,7 +277,7 @@ function cell_check(event){
 		for(var j=1;j<6;j++){
 			tbl[0].children[row].children[j].innerHTML="";
 		}
-		tbl[0].children[row].children[col+1].innerHTML='<img src="assets/check.png">';
+		tbl[0].children[row].children[col+1].innerHTML='<img class="check" src="assets/check.png">';
 		check_man();
 	}
 }
