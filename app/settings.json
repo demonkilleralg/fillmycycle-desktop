@@ -1,0 +1,16 @@
+{
+  "appname": "fillymycycle",
+  "appport": "0",
+  "url": "/",
+  "mode": "window",
+  "window": {
+    "title": "Fill My Cycle",
+    "width": "1000",
+    "height": "700",
+    "fullscreen": false,
+    "alwaysontop": false,
+    "iconfile": "fmc.png",
+    "enableinspector": false,
+    "borderlesswindow": false
+  }
+}
