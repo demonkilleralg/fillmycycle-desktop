@@ -6,7 +6,7 @@ Fork this repository in order to resolve.
 
 Install @neutrinojs/neu with npm. Make sure you have <b>npm</b> installed.<br>
 <code>
-sudo apt install npm
+sudo apt install npm <br>
 sudo npm i -g @neutrinojs/neu
 </code>
 
