@@ -2,9 +2,9 @@
 Desktop version of Fill My Cycle, for TOS &amp; ALG, TCET
 
 This is prealpha software, expect issues.
-Fork this in order to resolve
+Fork this repository in order to resolve.
 
-Install @neutrinojs/neu with npm. Make sure you have npm installed.
+Install @neutrinojs/neu with npm. Make sure you have <b>npm</b> installed.<br>
 <code>
 sudo apt install npm
 sudo npm i -g @neutrinojs/neu
